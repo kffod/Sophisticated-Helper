@@ -3,6 +3,9 @@
 **AI-powered CLI assistant for developers, security researchers, and engineers.**  
 Created by **Sachin Jadhav** — GitHub: [kffod/Sophisticated‑Helper](https://github.com/kffod/Sophisticated-Helper)
 
+<img width="1251" height="695" alt="image" src="https://github.com/user-attachments/assets/14e8f472-18fd-4b2f-aac1-09877b0696bf" />
+
+
 ---
 
 ##  Features
