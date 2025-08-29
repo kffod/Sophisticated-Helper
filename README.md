@@ -1,5 +1,4 @@
 #  Sophisticated Helper+
-
 **AI-powered CLI assistant for developers, security researchers, and engineers.**  
 Created by **Sachin Jadhav** — GitHub: [kffod/Sophisticated‑Helper](https://github.com/kffod/Sophisticated-Helper)
 
